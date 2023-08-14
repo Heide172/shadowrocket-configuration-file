@@ -1,2 +1,3 @@
-# shadowrocket-configuration-file
-Выборочный обход блокировок на iOS через Shadowrocket. Весь трафик будет идти напрямую, а сайты из конфига будут идти через VPN Wireguard. Два списка прокси — для рф и вне рф.
+Shadowrocket configuration file for proxy.
+
+https://raw.githubusercontent.com/Heide172/shadowrocket-configuration-file/main/template-ios-ru.conf
